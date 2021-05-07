@@ -1,4 +1,4 @@
-##Vehicle Detection - OpenVINO
+## Vehicle Detection - OpenVINO
 
 ## Project Set Up and Installation
 You will need to download the OpenVINO toolkit in order to run this model
